@@ -53,8 +53,8 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        emoji: ❤️
+        subtitle: Mr.Cai部署在GitHub上的hugo程序.
         avatar:
             enabled: true
             local: true
