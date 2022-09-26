@@ -2,7 +2,7 @@ baseurl: https://example.com
 languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 5
-title: Mr.Cai
+title: Mr.Cai的hugo博客
 
 languages:
     en:
